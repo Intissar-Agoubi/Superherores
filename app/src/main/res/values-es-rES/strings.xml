@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuperHeroes</string>
+    <string name="label_name">Name:</string>
+    <string name="label_slug">Slug:</string>
+    <string name="label_URL">URL:</string>
+    <string name="title_superheroes">Superhéroes</string>
+    <string name="label_first_view">Primera lista vertical</string>
+    <string name="label_second_view">Segunda lista desplazable</string>
+</resources>

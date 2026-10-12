@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SuperHeroes</string>
+    <string name="label_name">Name:</string>
+    <string name="label_slug">Slug:</string>
+    <string name="label_URL">URL:</string>
+    <string name="title_superheroes">Superheroes</string>
+    <string name="label_first_view">First vertical list</string>
+    <string name="label_second_view">Second scrollable list</string>
+</resources>
